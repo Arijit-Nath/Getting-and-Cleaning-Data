@@ -16,4 +16,4 @@ The purpose of this project is to collect, work with, and prepare clean a data s
 
 	CodeBook.md ->	 Companion handbook which describes the variables and data, used in this project 
 
-	Analysis.R ->	R script to process and prepare the tidy data set.
+	run_analysis.R -> R script to process and prepare the tidy data set.
